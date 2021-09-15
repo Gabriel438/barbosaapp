@@ -12,7 +12,7 @@ const Promocoes = () => {
 			animate={{ opacity: 1, y: 0 }}
 		>
 			<Image
-				src="/../public/img/logo.svg"
+				src="https://api.orbt.com.br/barbosa/logo.svg"
 				alt="Picture of the author"
 				width={500}
 				height={500}
