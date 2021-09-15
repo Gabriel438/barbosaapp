@@ -9,4 +9,7 @@ module.exports = {
       },
     ]
   },
+  images: {
+    domains: ['api.orbt.com.br'],
+  },
 }
