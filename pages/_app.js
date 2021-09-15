@@ -8,7 +8,7 @@ function MyApp({ Component, pageProps }) {
 		<>
 			<div className={style.backdrop}>
 				<Image
-					src="/../public/img/container.svg"
+					src="../public/img/container.svg"
 					alt="Picture of the author"
 					width={500}
 					height={800}
